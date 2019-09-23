@@ -1,0 +1,29 @@
+
+// 10171번 문제 : 
+// 아래 예제와 같이 고양이를 출력하시오.
+
+// 입력 :
+
+// 출력 :
+// 고양이를 출력한다.
+
+// 입력 예제 :
+// 
+
+// 출력 예제 :
+// \    /\
+//  )  ( ')
+// (  /  )
+//  \(__)|
+
+// 알고리즘 분류 :
+// 출력
+
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("\\    /\\");
+		System.out.println(" )  ( ')");
+		System.out.println("(  /  )");
+		System.out.println(" \\(__)|");
+	}
+}
